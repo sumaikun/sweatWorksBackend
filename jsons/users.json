@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "name":"Federico Illprincepe",
+        "pic":"imagen_federico.png",
+        "bib":"1085",
+        "age":"27",
+        "gender":"M",
+        "time":"17:42",
+        "score":"41"
+    },
+    {
+        "id":2,
+        "name":"Patrick Johnson",
+        "pic":"imagen_patrick.png",
+        "bib":"1085",
+        "age":"27",
+        "gender":"M",
+        "time":"17:45",
+        "score":"43"
+    },
+    {
+        "id":3,
+        "name":"Michael Monks",
+        "pic":"imagen_michael.png",
+        "bib":"1085",
+        "age":"27",
+        "gender":"M",
+        "time":"17:45",
+        "score":"43"
+    },
+    {
+        "id":4,
+        "name":"Hakim Callender",
+        "pic":"imagen_hakim.png",
+        "bib":"1085",
+        "age":"27",
+        "gender":"M",
+        "time":"17:42",
+        "score":"43"
+    },
+    {
+        "id":5,
+        "name":"Everton Lawrence",
+        "pic":"imagen_everton.png",
+        "bib":"1085",
+        "age":"27",
+        "gender":"M",
+        "time":"17:45",
+        "score":"43"
+    },
+    {
+        "id":6,
+        "name":"Patricia Sothers",
+        "pic":"imagen_patricia.png",
+        "bib":"1085",
+        "age":"27",
+        "gender":"M",
+        "time":"17:45",
+        "score":"43"
+    },
+    {
+        "id":7,
+        "name":"Pat Calhoun",
+        "pic":"imagen_pat.png",
+        "bib":"1085",
+        "age":"27",
+        "gender":"M",
+        "time":"17:45",
+        "score":"43"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id":6,
+        "label":"Crevasse Crossing",
+        "abbrs":["P","R","W","F"],
+        "time":"00:17:35",
+        "qualification":5
+    },
+    {
+        "id":7,
+        "label":"The Canopy",
+        "abbrs":["P","R"],
+        "time":"00:17:35",
+        "qualification":6
+    },
+    {
+        "id":8,
+        "label":"Dirty Armor",
+        "abbrs":["P","W"],
+        "time":"00:17:35",
+        "qualification":3
+    },
+    {
+        "id":9,
+        "label":"Navigatonial Challenge",
+        "abbrs":["R","F"],
+        "time":"00:17:35",
+        "qualification":8
+    },
+    {
+        "id":10,
+        "label":"Dead Weight",
+        "abbrs":["P","W","F"],
+        "time":"00:17:35",
+        "qualification":2
+    }
+]
+    

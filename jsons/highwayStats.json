@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "label":"Hill Climb",
+        "abbrs":["P","R","W","F"],
+        "time":"00:17:35",
+        "qualification":5
+    },
+    {
+        "id":2,
+        "label":"Run For The Hills",
+        "abbrs":["P","R"],
+        "time":"00:17:35",
+        "qualification":6
+    },
+    {
+        "id":3,
+        "label":"Coded Doors",
+        "abbrs":["P","W"],
+        "time":"00:17:35",
+        "qualification":3
+    },
+    {
+        "id":4,
+        "label":"Spear Throw",
+        "abbrs":["R","F"],
+        "time":"00:17:35",
+        "qualification":8
+    },
+    {
+        "id":5,
+        "label":"Sand Bagging",
+        "abbrs":["P","W","F"],
+        "time":"00:17:35",
+        "qualification":2
+    }
+]
+    
